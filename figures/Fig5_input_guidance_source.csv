@@ -1,0 +1,142 @@
+operation,dataset,unit,delta_ccc,record_type,mean,std,count,positive_n,se,positive_fraction,criterion_met,material_id,test_index,full_pred,context_only_pred,full_abs_error,context_only_abs_error,context_minus_full_abs_error,full_lower_abs_error
+Removing SBV,GABI,1-1,0.1597959061638832,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,1-2,0.4468242213497154,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,1-3,0.3288231553180525,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,1-4,0.2158993932406216,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,1-5,0.02160737195603,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,2-1,0.2378381513361814,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,2-2,0.3377357439225694,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,2-3,0.0276326460725125,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,2-4,0.2952595033499247,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,2-5,0.0985881424968456,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,3-1,0.3575244591013115,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,3-2,0.2538084636404847,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,3-3,0.2575785885388301,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,3-4,0.267031637139396,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,3-5,0.2634374227912185,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,1-1,0.0094635666211159,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,1-2,0.313616732625361,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,1-3,0.1942986289204503,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,1-4,0.3005432520456272,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,1-5,0.3380693610805864,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,2-1,0.3499655052041152,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,2-2,0.1850458944530973,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,2-3,0.3478907697129811,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,2-4,0.3792082779163134,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,2-5,0.529661945469453,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,3-1,0.2115675103121198,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,3-2,0.2904820079393366,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,3-3,0.4908167082255562,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,3-4,0.4017103932785519,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,3-5,0.2823839245033422,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,2-1,0.2335652195492817,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,2-2,0.2276760947536777,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,2-3,0.0277958886143951,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,2-4,0.1483092980706444,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,2-5,0.0563271859183164,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,2-1,0.1365632095781549,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,2-2,0.1014437379789493,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,2-3,0.1408075196011038,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,2-4,0.3206179582280139,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,2-5,0.349498621898497,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,1,-0.0315489600421482,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,2,0.1082008637391739,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,3,-0.0163455384261574,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,4,-0.0499860952870314,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,5,0.4311791915833856,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,6,0.0175552449036531,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,7,0.0120397318772594,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,8,0.1914953044948749,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,9,0.0552888099259726,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,10,0.0238239649601805,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,11,0.2285417765074207,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,12,0.0811876733495131,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,13,0.0131100912054997,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,14,0.3177697060858946,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,15,-0.0028178729516302,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,1,-0.0091458943263458,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,2,0.0610858900022315,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,3,0.189393784701321,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,4,0.0216192484192599,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,5,-0.0028379471755124,paired_fold,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,AUS2015,nan,nan,summary,0.091966259461724,0.140215487820058,15.0,11.0,0.0362034832804955,0.7333333333333333,True,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,GABI,nan,nan,summary,0.2379589870945051,0.1191072958276194,15.0,15.0,0.030753371543478,1.0,True,nan,nan,nan,nan,nan,nan,nan,nan
+Removing SBV,Ward,nan,nan,summary,0.3083149652205338,0.1276665394735318,15.0,15.0,0.032963358749928,1.0,True,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,AUS2015,nan,nan,summary,0.0520230163241908,0.0815913808758824,5.0,3.0,0.0364887748033099,0.6,True,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,GABI,nan,nan,summary,0.138734737381263,0.0949914342397478,5.0,5.0,0.0424814608480554,1.0,True,nan,nan,nan,nan,nan,nan,nan,nan
+Replacing SBV with PCA,Ward,nan,nan,summary,0.2097862094569437,0.1158242129450159,5.0,5.0,0.0517981627170933,1.0,True,nan,nan,nan,nan,nan,nan,nan,nan
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,TENNANT,455.0,0.3763995,0.009696461,0.1219411790370941,0.4886442050337791,0.366703025996685,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid183300sid3,73.0,0.32620898,-0.03232627,0.1232543587684631,0.4817896075546741,0.358535248786211,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,INDIA_39,310.0,0.2855828,-0.065525375,0.0536314100027084,0.2974767759442329,0.2438453659415245,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,EGA_EAGLEHAWK,175.0,0.739921,1.0598348,0.1533429026603698,0.473256766796112,0.3199138641357422,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,KRICHAUFF,332.0,0.7254143,1.0160595,0.0407932996749877,0.2498519420623779,0.2090586423873901,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,GATCHER,204.0,0.6002941,0.59234,0.0736874341964721,0.0657333135604858,-0.0079541206359863,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,CRANBROOK,155.0,0.689371,0.87691844,0.0055366158485412,0.1930840611457824,0.1875474452972412,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,BT_2281,55.0,0.6017829,0.56124544,0.1674157977104187,0.2079532742500305,0.0405374765396118,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,IRAQ_47,320.0,0.31675887,-0.02420348,0.0989668071269989,0.4399291574954986,0.3409623503684997,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AE_SQUARROSA_1027,9.0,0.39521024,0.022740893,0.0911931991577148,0.2812761440873146,0.1900829449295997,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid425878sid86,104.0,0.63216627,0.6776496,0.1551833152770996,0.1096999645233154,-0.0454833507537841,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,G_72300,199.0,0.3558053,-0.019192442,0.0845271944999694,0.4595249444246292,0.3749977499246597,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_1542,250.0,0.29871577,-0.060842052,0.1595851480960846,0.5191429704427719,0.3595578223466873,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,FLORENCE,192.0,0.3201735,0.004753493,0.1321666985750198,0.1832533106207847,0.0510866120457649,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid420707sid98,101.0,0.6829876,0.84140897,0.2232284545898437,0.0648070573806762,-0.1584213972091674,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,HTWYT_012,289.0,0.7319672,1.0062277,0.029547095298767,0.2447134256362915,0.2151663303375244,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,SUNVEX,449.0,0.6707914,0.8173343,0.0755067467689514,0.071036159992218,-0.0044705867767333,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AE_SQUARROSA_878,30.0,0.72777057,1.0112287,0.2699962258338928,0.5534543395042419,0.2834581136703491,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid473269sid30,137.0,0.62087834,0.61996615,0.114578902721405,0.1154910922050476,0.0009121894836425,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,WW_2449,484.0,0.67804,0.8460562,0.1087332367897033,0.2767494320869446,0.1680161952972412,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,ROSELLA,430.0,0.6744778,0.84145,0.1902917623519897,0.0233196020126342,-0.1669721603393554,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,HTWYT_010,287.0,0.60229385,0.5577352,0.0471714735031127,0.0917301177978515,0.0445586442947387,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,YECORA_70,488.0,0.69263506,0.88452125,0.3048391342163086,0.1129529476165771,-0.1918861865997314,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid183298sid1,72.0,0.32891187,-0.03126849,0.1809171736240387,0.5410975329577923,0.3601803593337536,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,CARNAMAH,63.0,0.7193935,0.9920094,0.0715425610542297,0.2010733485221862,0.1295307874679565,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid388444sid89,93.0,0.731102,1.0071613,0.0750036835670471,0.3510629534721374,0.2760592699050903,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,PALESTINSKAYA,391.0,0.24752527,-0.061855715,0.0848472416400909,0.3942282311618328,0.3093809895217418,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,WARATAH,477.0,0.4081137,0.052995816,0.0743989944458007,0.4295168668031692,0.3551178723573684,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid195095sid3,77.0,0.32883516,-0.031534497,0.1454682052135467,0.5058378614485264,0.3603696562349796,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,CHINESE_SPRING,68.0,0.27427018,-0.080917515,0.1585417538881302,0.196645937860012,0.0381041839718818,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,SOKOLL,437.0,0.6687403,0.79671776,0.1351237297058105,0.0071462392807006,-0.1279774904251098,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid192646sid0,76.0,0.62692976,0.64866686,0.1268045902252197,0.105067491531372,-0.0217370986938476,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid69587sid58,140.0,0.69337344,0.8670912,0.0059480667114257,0.1796658039093017,0.1737177371978759,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,6HRWSN98,2.0,0.75892186,1.1202159,0.0882990360260009,0.2729949951171875,0.1846959590911865,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,KINGS_WHITE,329.0,0.44608817,0.10856068,0.0531581044197082,0.3906855881214142,0.3375274837017059,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid257170sid21,79.0,0.67802346,0.82469904,0.0296325087547302,0.1170430779457092,0.087410569190979,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,GHURKA,208.0,0.45924768,0.14041889,0.0462861657142639,0.2725426256656647,0.2262564599514007,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,ERADU,182.0,0.68800926,0.8775054,0.1209720969200134,0.0685240626335144,-0.052448034286499,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,VASCO,461.0,0.6823791,0.86566937,0.0800940990447998,0.1031961441040039,0.0231020450592041,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,INDIS,312.0,0.74770975,1.0854833,0.1736894249916076,0.1640841364860534,-0.0096052885055542,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,FREE_GALLIPOLI,195.0,0.29784828,-0.024291206,0.0687892585992813,0.253350231796503,0.1845609731972217,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,SIETE_CERROS,434.0,0.615806,0.6161438,0.012766420841217,0.0124285817146301,-0.0003378391265869,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AJANA,33.0,0.6766076,0.84038055,0.1825115084648132,0.018738567829132,-0.1637729406356811,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,INIA_66,314.0,0.74325037,1.0699186,0.0467666983604431,0.2799015641212463,0.2331348657608032,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,117_VAR_12_564,0.0,0.28055346,-0.06911421,0.0439440011978149,0.3936116695404053,0.3496676683425903,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AE_SQUARROSA_208,11.0,0.43945143,0.06765331,0.2680273354053497,0.6398254483938217,0.371798112988472,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,WESTONIA,481.0,0.6892853,0.88441956,0.105491816997528,0.0896424651145935,-0.0158493518829345,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,EGA_BONNIE_ROCK,173.0,0.7338586,1.0397576,0.1640872955322265,0.141811728477478,-0.0222755670547485,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid306547sid131,84.0,0.6583109,0.742368,0.0590400099754333,0.1430971026420593,0.0840570926666259,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_1311,225.0,0.32207283,-0.05186351,0.1126228868961334,0.4865592308342457,0.3739363439381122,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,RAC_655,423.0,0.7019665,0.9376333,0.1054895520210266,0.1301771998405456,0.024687647819519,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,KALYANSONA,324.0,0.6219009,0.63919604,0.0744006037712097,0.0571054816246032,-0.0172951221466064,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,NP_120,386.0,0.24480143,-0.028563369,0.0264360904693603,0.2998008914291858,0.2733648009598255,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid460344sid158,117.0,0.7560352,1.1003085,0.0214005708694458,0.3656738996505737,0.3442733287811279,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AE_SQUARROSA_314,18.0,0.3765045,-0.017155275,0.2596091255545616,0.1340506598353386,-0.125558465719223,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,PERSIA_111,399.0,0.3104496,-0.057356175,0.2046318054199218,0.5724375806748867,0.3678057752549648,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,POTAM_70,411.0,0.6234355,0.6725035,0.286679744720459,0.2376117706298828,-0.0490679740905761,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,YITPI,489.0,0.6418872,0.7351501,0.1729824542999267,0.0797195434570312,-0.0932629108428955,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_1525,244.0,0.29632485,-0.0634184,0.1358665227890014,0.495609775185585,0.3597432523965835,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_339,272.0,0.2839758,-0.06403539,0.378800481557846,0.7268116846680641,0.348011203110218,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,NORIN_60,383.0,0.41257438,0.010564864,0.0749034881591796,0.4769130051136017,0.402009516954422,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,AUS_29529,39.0,0.37222394,-0.0048453584,0.2333931624889373,0.6104624643921852,0.3770693019032478,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,SUNVALE,448.0,0.6551573,0.76004434,0.0199037194252014,0.0849832892417907,0.0650795698165893,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_1685,268.0,0.29322696,-0.06466942,0.0909801423549652,0.2669162377715111,0.1759360954165458,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,VIGOUR_18,464.0,0.3729883,-0.0041937083,0.2233021706342697,0.1538798511028289,-0.0694223195314407,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,COPPADRA,153.0,0.2355924,-0.0701349,0.0119799375534057,0.3177072331309318,0.3057272955775261,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,LW_336,347.0,0.2785917,-0.03541959,0.0054876208305358,0.3194989040493965,0.3140112832188606,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,CIANO_79,70.0,0.71782076,0.96015644,0.0883491039276123,0.3306847810745239,0.2423356771469116,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_45,274.0,0.73661804,1.0255562,0.1154926419258117,0.4044308066368103,0.2889381647109985,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,H_1534,247.0,0.27985784,-0.07079295,0.0529551804065704,0.2976956143975258,0.2447404339909553,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,WW_80,485.0,0.64269733,0.7216078,0.0458224415779113,0.0330880284309387,-0.0127344131469726,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid473247sid51,132.0,0.66773546,0.79907966,0.0160987377166748,0.1474429368972778,0.131344199180603,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,cid388384sid40,90.0,0.58591664,0.5234134,0.1810073256492614,0.2435105443000793,0.0625032186508178,True
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,CHUAN_MAI_18,69.0,0.6197995,0.61013865,0.1472403407096862,0.1375795006752014,-0.0096608400344848,False
+nan,nan,nan,nan,i4,nan,nan,nan,nan,nan,nan,nan,WYLAH,487.0,0.6812366,0.859076,0.0501845479011535,0.1276548504829406,0.0774703025817871,True

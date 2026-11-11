@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-13T00:06:26.838604+08:00",
+  "macos": "ProductName:\t\tmacOS\nProductVersion:\t\t26.4\nBuildVersion:\t\t25E246",
+  "chip": "Apple M5 Max",
+  "memory_bytes": "137438953472",
+  "performance_cores": "6",
+  "efficiency_cores": "12",
+  "python": "3.12.15 (main, Oct  6 2026, 23:42:14) [Clang 21.1.8 ]",
+  "torch": "2.14.1",
+  "mps_available": true,
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "lightgbm": "4.7.0",
+  "R": "R version 4.5.3 (2026-03-11) -- \"Reassured Reassurer\"",
+  "BGLR": "1.1.4"
+}

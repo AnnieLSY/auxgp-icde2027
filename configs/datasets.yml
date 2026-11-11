@@ -1,0 +1,31 @@
+datasets:
+  AUS2015:
+    file: merged_geno_pheno_2015_filtered_23899.tsv
+    separator: "\t"
+    id_column: accession
+    target: yield
+    source_doi: 10.25909/5becfa45c176f
+  GABI:
+    file: gabi_wheat_2022_blue_preprocessed.tsv
+    separator: "\t"
+    target: GY_BLUE
+    genotype_source_doi: 10.5061/dryad.n02v6wwzc
+    phenotype_source_doi: 10.5447/ipk/2022/18
+  Ward:
+    file: ward_2019_spatial_adjusted_mean_preprocessed.tsv
+    separator: "\t"
+    target: spats_blup_YLD
+    source_doi: 10.6084/m9.figshare.7700012.v1
+  lentil:
+    prefix: lentil
+    source_doi: 10.5281/zenodo.15348871
+  pine:
+    prefix: pine
+    source_doi: 10.5281/zenodo.15348871
+  rice:
+    prefix: rice
+    source_doi: 10.5281/zenodo.15348871
+  wheatG:
+    prefix: wheatG
+    source_doi: 10.5281/zenodo.15348871
+

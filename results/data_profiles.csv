@@ -1,0 +1,4 @@
+dataset,n,p,p_over_n,recorded_trait_count,genotype_encoding,current_matrix_missing_fraction,cv_gblup_cb_mean
+AUS2015,494,23899,48.378542510121456,9,0/2 homozygous additive calls; -1 denotes missing,0.0082982483809649,0.9625807858515576
+GABI,371,35143,94.72506738544476,18,0/2 homozygous additive calls; -1 denotes missing,0.1373948242118666,0.9090750821214816
+Ward,314,29949,95.37898089171976,14,0/2 homozygous additive calls; -1 denotes missing,0.0527888918592605,0.6842865868332172

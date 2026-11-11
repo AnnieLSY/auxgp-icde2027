@@ -1,0 +1,42 @@
+panel,abbreviation,full_name,verification
+AUS2015,yield,Grain yield,verified
+AUS2015,harvest_index,Harvest index,verified
+AUS2015,biomass,Plant biomass,verified
+AUS2015,plant_height,Plant height,verified
+AUS2015,spike_no,Spike number,verified
+AUS2015,maturity_1,Maturity measurement 1,verified
+AUS2015,maturity_2,Maturity measurement 2,verified
+AUS2015,maturity_3,Maturity measurement 3,verified
+AUS2015,tgw,Thousand-grain weight,verified
+GABI,GY_BLUE,Grain yield (BLUE across environments),verified
+GABI,GY_BLUE_AND_2009,"Grain yield, Andelu 2009",verified
+GABI,GY_BLUE_AND_2010,"Grain yield, Andelu 2010",verified
+GABI,GY_BLUE_JAN_2010,"Grain yield, Janville 2010",verified
+GABI,GY_BLUE_SAU_2010,"Grain yield, Saultain 2010",verified
+GABI,GY_BLUE_SEL_2009,"Grain yield, Seligenstadt 2009",verified
+GABI,GY_BLUE_SEL_2010,"Grain yield, Seligenstadt 2010",verified
+GABI,GY_BLUE_WOH_2009,"Grain yield, Wohlde 2009",verified
+GABI,GY_BLUE_WOH_2010,"Grain yield, Wohlde 2010",verified
+GABI,HD_BLUE_across,Heading date,verified
+GABI,PH_BLUE_across,Plant height,verified
+GABI,TKW_BLUE_across,Thousand-grain weight,verified
+GABI,GPE_BLUE_across,Grains per ear,verified
+GABI,SW_BLUE_across,Specific weight,verified
+GABI,GH_BLUE_across,Grain hardiness,verified
+GABI,PC_BLUE_across,Protein content,verified
+GABI,HAG_BLUE_across,Hagberg falling number,verified
+GABI,ZEL_BLUE_across,Zeleny sedimentation index,verified
+Ward,spats_blup_YLD,Grain yield,verified
+Ward,spats_blup_FLSG,Flag leaf stay-green duration,verified
+Ward,spats_blup_GSQM,Grains per square meter,verified
+Ward,spats_blup_GW,Grain weight,verified
+Ward,spats_blup_HD,Heading date,verified
+Ward,spats_blup_HT,Plant height,verified
+Ward,spats_blup_MAT,Physiological maturity date,verified
+Ward,spats_blup_NDVI,Normalized-difference vegetation index at Zadoks stage 25,verified
+Ward,spats_blup_SPH,Seeds per head,verified
+Ward,spats_blup_SSQM,Spikes per square meter,verified
+Ward,spats_blup_STARCH,Whole-grain starch content,verified
+Ward,spats_blup_TKW,Thousand-kernel weight,verified
+Ward,spats_blup_TWT,Test weight,verified
+Ward,spats_blup_PROT,Whole-grain protein content,verified

@@ -1,0 +1,19 @@
+protocols:
+  cross_validation:
+    repeats: 3
+    folds: 5
+    preparation_scope: outer_train_only
+  dual_prior:
+    bayesb_top_k: 1000
+    pls_components:
+      minimum: 1
+      maximum: 30
+      selection: five_fold_training_only
+  missing_genotype:
+    fit_on: outer_train_only
+    default: training_marker_mean
+  metrics:
+    ccc_variance_ddof: 0
+    primary: [pcc, ccc_population]
+    descriptive: [r2, rmse, mae, cb, scale_ratio_v, slope_b1]
+

@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated AuxGP manuscript."
+title: "AuxGP: Phenotype Guidance for Deep Genomic Prediction with a Quantitative Leakage Protocol"
+type: software
+license: MIT
+authors:
+  - given-names: Siyi
+    family-names: Liu
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; School of Computer, Electronics and Information, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Lina
+    family-names: Yang
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; School of Computer, Electronics and Information, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Zeyuan
+    family-names: Zhou
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; School of Computer, Electronics and Information, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Ling
+    family-names: Xiao
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Agriculture, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Siyuan
+    family-names: Chen
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Life Science and Technology, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Jiandong
+    family-names: Huang
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; School of Computer, Electronics and Information, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Qing
+    family-names: Zhang
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Agriculture, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Qiutao
+    family-names: Xu
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Agriculture, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Jisen
+    family-names: Zhang
+    email: zjisen@126.com
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Agriculture, Guangxi University, Nanning 530004, Guangxi, China"
+  - given-names: Yunxuan
+    family-names: Dong
+    email: dyxiscool@outlook.com
+    affiliation: "State Key Laboratory for Conservation and Utilization of Subtropical Agro-bioresources, Guangxi Key Laboratory of Sugarcane Biology, Guangxi University; College of Agriculture, Guangxi University, Nanning 530004, Guangxi, China"
+

@@ -1,0 +1,7 @@
+arm,n,mean_delta_CCC,positive_pairs,support
+G-indep,9,0.0169691661935787,6,True
+G-perm,9,0.0213598866759184,7,True
+G-random,9,0.0613896411903136,8,True
+G-single,9,0.0125163030365376,6,True
+G-thr-minus,3,0.000638371954496,2,False
+G-thr-plus,3,0.0088906899708343,1,False

@@ -1,0 +1,39 @@
+{
+  "status": "COMPLETE",
+  "dataset": "GABI",
+  "model": "LightGBM",
+  "seed": 44,
+  "kind": "sample",
+  "marker_fraction": 1.0,
+  "sample_fraction": 1.0,
+  "n_train": 315,
+  "n_test": 56,
+  "n_markers": 35143,
+  "metrics": {
+    "n": 56,
+    "pcc": 0.6749116831200809,
+    "ccc_population": 0.5440840985918319,
+    "cb": 0.8061559937391513,
+    "scale_ratio_v": 0.5127190960514479,
+    "r2": 0.42007058023285315,
+    "mse": 0.015171792348932418,
+    "rmse": 0.12317382980541125,
+    "mae": 0.0899292913107519,
+    "slope_b1": 1.3163381046614222,
+    "intercept_b0": -0.2131410217462263,
+    "mean_bias_obs_minus_pred": -0.015453856519533016
+  },
+  "detail": {
+    "k": 5000,
+    "n_estimators": 500,
+    "learning_rate": 0.03,
+    "num_leaves": 7,
+    "min_child_samples": 10,
+    "subsample": 0.85,
+    "colsample_bytree": 0.65,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1,
+    "mean_pcc": 0.6413274140822197
+  },
+  "elapsed_seconds": 4.195404052734375
+}

@@ -1,0 +1,14 @@
+{
+  "R": {
+    "Version": "4.5.3",
+    "Repositories": [
+      {"Name": "CRAN", "URL": "https://cloud.r-project.org"}
+    ]
+  },
+  "Packages": {
+    "BGLR": {"Package": "BGLR", "Version": "1.1.4", "Source": "Repository", "Repository": "CRAN"},
+    "rrBLUP": {"Package": "rrBLUP", "Version": "4.6.3", "Source": "Repository", "Repository": "CRAN"},
+    "truncnorm": {"Package": "truncnorm", "Version": "1.0.9", "Source": "Repository", "Repository": "CRAN"},
+    "MASS": {"Package": "MASS", "Version": "7.3.66", "Source": "Repository", "Repository": "CRAN"}
+  }
+}

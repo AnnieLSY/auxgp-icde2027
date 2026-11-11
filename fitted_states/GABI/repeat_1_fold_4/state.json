@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "dataset": "GABI",
+  "repeat": 1,
+  "fold": 4,
+  "split_manifest": "../../../splits/GABI/repeat_1_fold_4.csv",
+  "split_manifest_sha256": "9b4f93a83ae9eadde904408e9b5d7c361aa37b2f88cf2effbecd30c3431cc266",
+  "genotype_mode": "original",
+  "genotype_policy": "preserve_numeric_minus_one_sentinel",
+  "imputation": {
+    "train_imputed": 0,
+    "eval_imputed": 0,
+    "all_missing_markers": 0
+  },
+  "n_markers": 35143,
+  "pls_dimension": 14,
+  "pls_train_scores_sha256": "f37242a894edd1967157be098b58085a9ba1df35603fe860ff803af8b2b5f39a",
+  "pls_test_scores_sha256": "24dbe94fe4c293ecfc64e57906d5dda5cea60c38a13cdc68da608b38cd15daab",
+  "bayesb_coefficient_file": "bayesb_coefficients.npy",
+  "bayesb_coefficient_sha256": "28784714f4beac7bf4e4023032e196d532954ebc6126cbd59b4acbe49ecb6df5",
+  "bayesb_coefficient_csv_file": "bayesb_coefficients.csv.gz",
+  "bayesb_coefficient_csv_sha256": "b90bff3a76c4af6b8d7311c78b5225e5d373ed80b78e03c9b1935e2df5da69f4",
+  "bayesb_numeric_sha256": "f21c95a496367fdab17a4787b16d12db6c1c70cfb0c06767fd079819e8a8bce7",
+  "selected_marker_file": "selected_markers.csv",
+  "selected_marker_count": 1000,
+  "selected_indices_numeric_sha256": "44f7e9239d71fdefc8969e000f88e834335cadf89d27cc68d057f5522f3f3ecf",
+  "fitting_rows_file": "fitting_rows.csv",
+  "fitting_row_count": 297,
+  "evaluation_row_count": 74,
+  "marker_dictionary": "../markers.csv.gz",
+  "source_cache_sha256": {
+    "metadata": "137fa9225dc47fac12deea6be1431a15d1dc8db23efedca4ed2a9a7aae2f01f3",
+    "arrays": "0acfa59aa5c4ff9f4bcf4ce8632dcf40adac8c9f9e5119f04dbe2a23945c8e78",
+    "coefficients": "f7e1ef668edf139f29d3b9672391e0a61ebc1681663c6ed37c46437bc47ab72d"
+  },
+  "selected_rank_lookup_size": 1000
+}

@@ -1,0 +1,6 @@
+R==4.5.3
+BGLR==1.1.4
+rrBLUP==4.6.3
+truncnorm==1.0.9
+MASS==7.3.66
+

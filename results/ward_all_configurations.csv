@@ -1,0 +1,52 @@
+model,configuration,scoring_basis,ccc,filter,sha256,counted_configuration,count_note,above_auxgp_seed42_0.3967,above_auxgp_seedmean_0.3758
+BayesB,E6H::BayesB_long_s42,single run,0.2435109317358567,dataset=Ward;control=E6H::BayesB_long_s42,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,E6H::BayesB_long_s43,single run,0.2429659097693271,dataset=Ward;control=E6H::BayesB_long_s43,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,E6H::BayesB_short_s42,single run,0.2818356449997946,dataset=Ward;control=E6H::BayesB_short_s42,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,E6H::BayesB_short_s43,single run,0.2277609818910396,dataset=Ward;control=E6H::BayesB_short_s43,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+GBLUP,E6H::GBLUP_rrBLUP_mean,fixed/deterministic configuration,0.239913441015598,dataset=Ward;control=E6H::GBLUP_rrBLUP_mean,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+RF,E6H::RF_default,fixed/deterministic configuration,0.1655274164477914,dataset=Ward;control=E6H::RF_default,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+Ridge,E6H::Ridge_default,fixed/deterministic configuration,0.2682174599164109,dataset=Ward;control=E6H::Ridge_default,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+SVR-RBF,E6H::SVR-RBF_default,fixed/deterministic configuration,0.1597739897383719,dataset=Ward;control=E6H::SVR-RBF_default,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+VMGP,VMGP::seed_mean,multi-seed mean,0.1495064243874661,dataset=Ward;control=VMGP::seed_mean,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+TabNet,TabNet::raw_seed_mean,multi-seed mean,-0.023026096683461,dataset=Ward;control=TabNet::raw_seed_mean,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+Ridge,HF1_N_tuned::Ridge,multi-seed mean,0.2704866137095404,dataset=Ward;control=HF1_N_tuned::Ridge,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+SVR-RBF,HF1_N_tuned::SVR-RBF,multi-seed mean,0.2691457001886488,dataset=Ward;control=HF1_N_tuned::SVR-RBF,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+RF,HF1_N_tuned::RF,multi-seed mean,0.1732047607209005,dataset=Ward;control=HF1_N_tuned::RF,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+GBLUP,HF1_N_tuned::GBLUP,multi-seed mean,0.239018744707339,dataset=Ward;control=HF1_N_tuned::GBLUP,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+MLP-Dual,HF1_N_tuned::MLP-Dual,multi-seed mean,0.2921341896275597,dataset=Ward;control=HF1_N_tuned::MLP-Dual,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+VMGP,HF1_N_tuned::VMGP,multi-seed mean,0.1545442297723559,dataset=Ward;control=HF1_N_tuned::VMGP,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+BayesB,HF1_E6::BayesB_long_s42,single run,0.2435109317358567,dataset=Ward;control=HF1_E6::BayesB_long_s42,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,HF1_E6::BayesB_long_s43,single run,0.2429659097693271,dataset=Ward;control=HF1_E6::BayesB_long_s43,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,HF1_E6::BayesB_short_s42,single run,0.2818356449997946,dataset=Ward;control=HF1_E6::BayesB_short_s42,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+BayesB,HF1_E6::BayesB_short_s43,single run,0.2277609818910396,dataset=Ward;control=HF1_E6::BayesB_short_s43,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,False,explicit single-seed run,False,False
+ElasticNet,HF2_tuned::ElasticNet,fixed/deterministic configuration,0.2322988713062919,dataset=Ward;control=HF2_tuned::ElasticNet,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+LightGBM,HF2_tuned::LightGBM,fixed/deterministic configuration,0.1841849487778598,dataset=Ward;control=HF2_tuned::LightGBM,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+WheatGP,HF2_deep::WheatGP,multi-seed mean,0.2610547112513623,dataset=Ward;control=HF2_deep::WheatGP,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+Cropformer,HF2_deep::Cropformer,multi-seed mean,0.3550649127508327,dataset=Ward;control=HF2_deep::Cropformer,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+DeepGS,HF2_deep::DeepGS,multi-seed mean,0.1501034635734465,dataset=Ward;control=HF2_deep::DeepGS,df40e072eff1e389d7889370bdb1f2f4e7e024d711939ec072af92124e5cd3a9,True,nan,False,False
+GBLUP,fixed::seed 42,single run,0.2390187518717126,model=GBLUP;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+BayesB,fixed::seed 42,single run,0.2435109362456773,model=BayesB;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+Ridge,fixed::seed 42,single run,0.2704866175793508,model=Ridge;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+ElasticNet,fixed::seed 42,single run,0.23229887285209,model=ElasticNet;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+RF,fixed::seed 42,single run,0.1788402324185937,model=RF;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+LightGBM,fixed::seed 42,single run,0.1841849474085135,model=LightGBM;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+SVR-RBF,fixed::seed 42,single run,0.2691456971270082,model=SVR-RBF;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+MLP-Dual,fixed::seed 42,single run,0.3058211128804612,model=MLP-Dual;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+VMGP,fixed::seed 42,single run,0.2465372371680289,model=VMGP;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+TabNet,fixed::seed 42,single run,0.0766768308927006,model=TabNet;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+WheatGP,fixed::seed 42,single run,0.2436770454413216,model=WheatGP;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+Cropformer,fixed::seed 42,single run,0.3342175504411785,model=Cropformer;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+DeepGS,fixed::seed 42,single run,0.1131101625488745,model=DeepGS;column=Ward_CCC,fd7c11f330874d3fe33bc0cd9988b6341fa5dfff5267ecd0a5c532b89f1bb99f,False,explicit seed-42 score,False,False
+GBLUP,fixed::multi-seed mean,multi-seed mean,0.239018744707339,model=GBLUP;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+BayesB,fixed::multi-seed mean,multi-seed mean,0.2433228635592249,model=BayesB;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+Ridge,fixed::multi-seed mean,multi-seed mean,0.2704866137095403,model=Ridge;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+ElasticNet,fixed::multi-seed mean,multi-seed mean,0.2322988713062919,model=ElasticNet;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+RF,fixed::multi-seed mean,multi-seed mean,0.1732047607209005,model=RF;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+LightGBM,fixed::multi-seed mean,multi-seed mean,0.1841849487778598,model=LightGBM;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+SVR-RBF,fixed::multi-seed mean,multi-seed mean,0.2691457001886488,model=SVR-RBF;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+MLP-Dual,fixed::multi-seed mean,multi-seed mean,0.3135282499580716,model=MLP-Dual;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+VMGP,fixed::multi-seed mean,multi-seed mean,0.1495064243874661,model=VMGP;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+TabNet,fixed::multi-seed mean,multi-seed mean,-0.023026096683461,model=TabNet;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+WheatGP,fixed::multi-seed mean,multi-seed mean,0.2573234911668047,model=WheatGP;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+Cropformer,fixed::multi-seed mean,multi-seed mean,0.3553654416762159,model=Cropformer;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
+DeepGS,fixed::multi-seed mean,multi-seed mean,0.1443293584918637,model=DeepGS;column=Ward_CCC,97dd152f3b2c38170ed82a1292d22106d9187acab621cf38a265a4d50851ff53,True,nan,False,False
